@@ -1,1 +1,1 @@
-<img src="ML%20Project.JPG" width="933">
+<img src="ML%20Project.JPG" width="900">
