@@ -1,1 +1,1 @@
-<img src="MLClassification1.jpg">
+<img src="MLClassification.jpg">
